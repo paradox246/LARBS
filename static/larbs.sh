@@ -7,7 +7,7 @@
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/paradox246/voidrice.git"
-progsfile="https://raw.githubusercontent.com/paradox246/LARBS/master/static/progs.csv"
+progsfile="https://raw.githubusercontent.com/paradox246/LARBS/refs/heads/master/static/progs.csv"
 #progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/static/progs.csv"
 aurhelper="yay"
 repobranch="master"
